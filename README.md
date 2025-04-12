@@ -2,7 +2,7 @@
 Repositorio de actividades del curso CC3S2.
 
 ### Actividades
-- [Prueba de entrada](https://github.com/fausto-e/DS-CC3S2A/tree/main/Prueba-de-entrada). Repositorio de la PE: [Repositorio](https://github.com/fausto-e/PE-CC3S2-A251)
+- [Repositorio de la prueba de entrada](https://github.com/fausto-e/PE-CC3S2-A251)
 - [Actividad 1](https://github.com/fausto-e/DS-CC3S2A/blob/main/Actividad-1/Actividad-1.md) 
 - [Actividad 2](https://github.com/fausto-e/DS-CC3S2A/blob/main/Actividad-2/Actividad-2.md)
 - [Actividad 3](https://github.com/fausto-e/DS-CC3S2A/blob/main/Actividad-3/Actividad-3.md) 
